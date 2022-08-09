@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pablo-rmk
-- 👀 I’m interested in tecnologías, programación, computación
+- 👀 I’m interested in technologies, programming, computers
 - 🌱 I’m currently learning Java
 - 📫 How to reach me... https://www.linkedin.com/in/pablo-gutiérrez-urrutia-063580201/
 - pablo.gutierrez.u@gmail.com
